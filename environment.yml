@@ -1,0 +1,8 @@
+name: 
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - python=3.14
+
+prefix: "/home/aashish/Documents/House/Room0/Python-Inter/venv"
