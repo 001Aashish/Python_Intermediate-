@@ -1,8 +1,10 @@
-name: 
+name: python-inter
 channels:
   - conda-forge
 dependencies:
   - jupyter
   - python=3.14
+  - numpy=2.5.0
+  - pandas=3.0.3
 
 prefix: "/home/aashish/Documents/House/Room0/Python-Inter/venv"
